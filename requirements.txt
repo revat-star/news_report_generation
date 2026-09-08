@@ -5,3 +5,5 @@ textblob
 matplotlib
 fpdf
 
+# these are requirements needed for ur project
+
